@@ -15,5 +15,3 @@ Actual result -
 Expected result -
 Comments - 
 Attachments - 
-
-[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C
