@@ -1,0 +1,8 @@
+Checking
+1)Create a file - ok
+2)Open a file - ok
+3)Edit a file - ok
+4)Save a file - ok
+5)Type a file - bug
+
+
