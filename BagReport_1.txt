@@ -1,0 +1,19 @@
+ID -
+Reporter -
+Project -
+Summary -
+Severity -
+Priority - 
+Reproducibility - 
+Requirements - 
+Platform - 
+OS- 
+Description - 
+Steps to reproduce:
+ 
+Actual result -
+Expected result -
+Comments - 
+Attachments - 
+
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C
